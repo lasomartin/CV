@@ -79,7 +79,7 @@ footer {
 	padding: 6px;
 	text-align: center;
 	background-color: #0099cc;
-	color: white;
+	color: rgba(248, 244, 244, 0.74);
 }
 footer.second {
     border-top: 1px solid rgb(103, 243, 248);
