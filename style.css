@@ -23,6 +23,14 @@ html {
 h1 {
     margin-left: 20px;
 }
+@media ( max-width: 26.25em ) {
+h1 {
+    font-size: 1.875em;
+  }
+}
+p {
+   text-align: justify;
+}
 .menu ul {
     list-style-type: none;
     margin: 0;
